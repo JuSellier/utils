@@ -9,13 +9,17 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,
 
 #### Modern sans-serif
 
-Roboto | Safe pick.
-Montserrat | Good for headers, safe pick.
-Poppins | Clean & Modern.
+| Font Name  | Notes                        |
+| ---------- | ---------------------------- |
+| Roboto     | Safe pick.                   |
+| Montserrat | Good for headers, safe pick. |
+| Poppins    | Clean & Modern.              |
 
 #### Monospace
 
-Roboto Mono | Safe pick.
-Syne Mono | Stylish, dark.
-Inconsolata | Clean, slick.
-Courier Prime | Journalistic.
+| Font Name     | Notes          |
+| ------------- | -------------- |
+| Roboto Mono   | Safe pick.     |
+| Syne Mono     | Stylish, dark. |
+| Inconsolata   | Clean, slick.  |
+| Courier Prime | Journalistic.  |
