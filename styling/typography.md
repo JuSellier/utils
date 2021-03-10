@@ -9,13 +9,15 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,
 
 # Best Google Fonts
 
-## Modern sans-serif
+## Sans-serif
 
-| Font Name  | Notes                        |
-| ---------- | ---------------------------- |
-| Roboto     | Safe pick.                   |
-| Montserrat | Good for headers, safe pick. |
-| Poppins    | Clean & Modern.              |
+| Font Name     | Notes                            |
+| ------------- | -------------------------------- |
+| Poppins       | Clean & Modern.                  |
+| IBM Plex Sans | Professional                     |
+| Roboto        | Safe pick.                       |
+| Montserrat    | Good for headers, safe pick.     |
+| Alegreya Sans | Good for long text, bit stylish. |
 
 ## Monospace
 
@@ -25,6 +27,23 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,
 | Syne Mono     | Stylish, dark. |
 | Inconsolata   | Clean, slick.  |
 | Courier Prime | Journalistic.  |
+
+## Serif
+
+| Font Name        | Notes        |
+| ---------------- | ------------ |
+| BioRhyme         | Modern, slab |
+| Source Serif Pro | Historical   |
+| Josefin Slab     | 1930's style |
+| Roboto Slab      | Robust       |
+
+## Handwriting
+
+| Font Name      | Notes                  |
+| -------------- | ---------------------- |
+| Gaegu          | Childish               |
+| Amatic SC      | All caps, teenager-ish |
+| Dancing Script | Fancy                  |
 
 ---
 

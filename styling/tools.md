@@ -27,13 +27,16 @@
 
 # Design Inspiration
 
-| Name           | Notes               |
-| -------------- | ------------------- |
-| Awwwards       | Stunning websites   |
-| OnePageLove    | One page websites   |
-| LapaNinja      | Landing pages       |
-| CodeMyUI       | UI elements /w code |
-| MinimalGallery | Minimal websites    |
+| Name           | Notes                          |
+| -------------- | ------------------------------ |
+| Awwwards       | Stunning websites              |
+| OnePageLove    | One page websites              |
+| LapaNinja      | Landing pages                  |
+| CodeMyUI       | UI elements /w code            |
+| MinimalGallery | Minimal websites               |
+| Siiimple       | Minimal websites               |
+| Screenlane     | Micro-interactions / Animation |
+| LandBook       | Landing pages                  |
 
 # 3D modeling
 
