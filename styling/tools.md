@@ -43,3 +43,10 @@
 | Name   | Notes |
 | ------ | ----- |
 | Spline | Easy  |
+
+# Others
+
+| Name             | Notes                         |
+| ---------------- | ----------------------------- |
+| checklist.design | Design checlists              |
+| unscreen.com     | Remove background from videos |
