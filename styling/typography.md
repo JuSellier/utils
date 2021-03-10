@@ -30,7 +30,18 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,
 
 # Sizes
 
-> Horizontal space is the main concern when textual sizing elements as the text will easily overflow on mobile devices if it is too big. To solve this problem, you can use the window width in your font-size calculation.
+Horizontal space is the main concern when textual sizing elements as the text will easily overflow on mobile devices if it is too big. To solve this problem, you can use the window width in your font-size calculation.
+
+### Don't want to use calculations?
+
+```css
+--size-h1: 2.2rem;
+--size-h2: 2rem;
+--size-h3: 1.7rem;
+--size-h4: 1.6rem;
+--size-h5: 1.3rem;
+--size-h6: 1.1rem;
+```
 
 ---
 
