@@ -2,9 +2,15 @@
 
 Use one to three colors, this should be your brand's colors. Named respectively: primary , secondary, tertiary colors)
 
-> corresponding css variables: primary (`--clr-1`), secondary (`--clr-2`), tertiary (`--clr-3`)
-
 > If you are using offer the choice between dark and light color modes, you may want to adjust your color palette for each mode.
+
+_CSS variables to use_
+
+1. primary -> `--clr-1`
+2. secondary -> `--clr-2`
+3. tertiary `--clr-3`
+
+> Note: If you are using color gradients, you can add an additional color like this `--clr-1-x`. This would be the color used for the primary gradient
 
 # Color system for dark OR light mode websites
 
