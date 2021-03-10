@@ -10,7 +10,7 @@
 
 ---
 
-# Variable naming convention
+# Variable naming conventions
 
 Variables should follow the following scheme: `--prefix-name-suffix`.
 Both prefix and name are required and the suffix is used to give additional info when more than one variable is needed for the same name (ex: `--clr-orange-dark` and `--clr-orange-light`)
