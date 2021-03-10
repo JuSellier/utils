@@ -27,7 +27,16 @@
 
 # Design Inspiration
 
-| Name        | Notes                             |
-| ----------- | --------------------------------- |
-| Awwwards    |                                   |
-| OnePageLove | Inspiration for one page websites |
+| Name           | Notes               |
+| -------------- | ------------------- |
+| Awwwards       | Stunning websites   |
+| OnePageLove    | One page websites   |
+| LapaNinja      | Landing pages       |
+| CodeMyUI       | UI elements /w code |
+| MinimalGallery | Minimal websites    |
+
+# 3D modeling
+
+| Name   | Notes |
+| ------ | ----- |
+| Spline | Easy  |
