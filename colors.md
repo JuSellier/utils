@@ -19,6 +19,7 @@ html {
 ### Color system for dark AND light mode websites
 
 Similar to above, to make it easy, use the background color as your text color and vice-versa when switching color mode.
+The main difference is that if you're using branded colors you may need to adjust each color from your palette for the dark / light mode as they will look very different on light/dark background/text.
 
 ---
 
