@@ -1,4 +1,12 @@
-### Color system for dark OR light mode websites
+# Making a color palette
+
+Use one to three colors, this should be your brand's colors. Named respectively: primary , secondary, tertiary colors)
+
+> corresponding css variables: primary (`--clr-1`), secondary (`--clr-2`), tertiary (`--clr-3`)
+
+> If you are using offer the choice between dark and light color modes, you may want to adjust your color palette for each mode.
+
+# Color system for dark OR light mode websites
 
 You will need at least 2 colors: one for the background and one for the text.
 You can also add 2 extra colors that can be used to slightly differentiate an element's color from the background / text colors.
@@ -16,7 +24,9 @@ html {
 }
 ```
 
-### Color system for dark AND light mode websites
+---
+
+# Color system for dark AND light mode websites
 
 Similar to above, to make it easy, use the background color as your text color and vice-versa when switching color mode.
 The main difference is that if you're using branded colors you may need to adjust each color from your palette for the dark / light mode as they will look very different on light/dark background/text.
