@@ -1,8 +1,8 @@
 # utils
 
-Useful stuff
+Useful web development stuff for me to remember.
 
 - Typography
 - Colors
-- Buttons
-- Links
+- UI elements (buttons, links, modals, header, footer, etc.)
+- Useful tools

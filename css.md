@@ -15,6 +15,12 @@ Both prefix and name are required and the suffix is used to give additional info
 
 ### Common variables
 
+#### Fonts
+
+- Default text font `--font`
+- Fallback (system fonts) `--font-fallback`
+- Header font `--font-h` (if applicable)
+
 #### Colors
 
 - Background `--clr-bg`
