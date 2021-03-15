@@ -149,7 +149,7 @@ Not done yet.
 
 ---
 
-## DevOps
+## General & DevOps
 
 ### Website deployment
 
@@ -167,3 +167,8 @@ Common solutions:
 ### Server deployment
 
 NodeJS: Heroku
+
+### Analytics
+
+For websites & mobile apps: Google Analytics / Google Tags Manager
+For servers: ???
