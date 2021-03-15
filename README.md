@@ -108,3 +108,20 @@ For NodeJS, use nodemailer is pretty good.
 #### SMS sending
 
 Not done yet.
+
+---
+
+## DevOps
+
+### Website deployment
+
+Depends if your website is:
+
+- Static
+- Client-side rendered
+- Server-side rendered
+
+Common solutions:
+
+- Netlify
+- Vercel
