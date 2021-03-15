@@ -80,6 +80,18 @@ For example: the French version of contact page (used in the above examples) wou
 
 > Note: Don't use this option if you plan on using subdomains for other stuff.
 
+### State Management
+
+Global state keeps independent components up to date with global application data.
+
+#### React
+
+Context API / Hooks allow you to implement global state without using redux.
+
+#### Svelte
+
+Built-in stores.
+
 ### Web Accessibility
 
 This is about making web pages more accessible to people with disabilities.
