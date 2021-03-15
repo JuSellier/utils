@@ -95,10 +95,16 @@ Most common:
 
 If you're not sure which database type you should be using. Go for NoSQL (it's easier to implement and less strict).
 
-#### Database modeling
+#### Database design
+
+Very important process that has a lot to do with information architecture.
 
 ### Notifications
 
 #### Email sending
 
+For NodeJS, use nodemailer is pretty good.
+
 #### SMS sending
+
+Not done yet.
