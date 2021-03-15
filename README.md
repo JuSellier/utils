@@ -80,6 +80,32 @@ For example: the French version of contact page (used in the above examples) wou
 
 > Note: Don't use this option if you plan on using subdomains for other stuff.
 
+### Web Accessibility
+
+This is about making web pages more accessible to people with disabilities.
+Web Accessibility aims at providing solutions for people that are(partly or totally):
+
+#### Blind
+
+Solutions:
+
+- Use screenreader-friendly markup (ARIA) in your HTML.
+- Make sure navigation/interactions with keyboard is possible.
+
+#### Deaf
+
+Solutions:
+
+- Provide text transcriptions for videos and audio files.
+- You can also provide visual cues that a sound is playing when possible.
+
+#### Paralized
+
+Solutions:
+
+- Make sure you can navigate through the page and interact with buttons/links/inputs/etc. with the keyboard only.
+- Offer speech to text inputs when possible
+
 ---
 
 ## Backend
@@ -125,3 +151,7 @@ Common solutions:
 
 - Netlify
 - Vercel
+
+### Server deployment
+
+NodeJS: Heroku
