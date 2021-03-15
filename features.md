@@ -1,16 +1,16 @@
 # Common features for websites.
 
-## Dark & Light Mode
-
-## Contact
-
 ## Database
 
 ## Multi-Language Support & Localisation
 
 ## Authentication
 
+## Contact Form
+
 ## Email / SMS notifications
+
+## Dark & Light Mode
 
 ---
 
