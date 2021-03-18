@@ -67,3 +67,5 @@ Horizontal space is the main concern when textual sizing elements as the text wi
 # Font weights
 
 > Note: When using dark/light mode, text will appear thinner in light mode. (maybe think of a way to adjust font weight)
+
+Example with Montserrat: weight 400 on light background looks around the same boldness as weight 100 on dark background
