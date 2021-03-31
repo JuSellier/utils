@@ -37,6 +37,13 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,
 | Josefin Slab     | 1930's style |
 | Roboto Slab      | Robust       |
 
+## Stylish
+
+| Font Name     | Notes                       |
+| ------------- | --------------------------- |
+| Orbitron      | Cyberpunk, Futuristic       |
+| Space Grotesk | Futuristic yet professional |
+
 ## Handwriting
 
 | Font Name      | Notes                  |
