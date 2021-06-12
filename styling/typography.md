@@ -1,19 +1,20 @@
 # System fonts
 
 ```css
-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,
-  Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans,
+  Ubuntu, Cantarell, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 ```
 
 ---
 
-# Best Google Fonts
+# Best Fonts on Google Fonts
 
 ## Sans-serif
 
 | Font Name     | Notes                            |
 | ------------- | -------------------------------- |
 | Poppins       | Clean & Modern.                  |
+| Lexend        | Modern and playful               |
 | IBM Plex Sans | Professional                     |
 | Roboto        | Safe pick.                       |
 | Montserrat    | Good for headers, safe pick.     |
