@@ -31,12 +31,13 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans,
 
 ## Serif
 
-| Font Name        | Notes        |
-| ---------------- | ------------ |
-| BioRhyme         | Modern, slab |
-| Source Serif Pro | Historical   |
-| Josefin Slab     | 1930's style |
-| Roboto Slab      | Robust       |
+| Font Name        | Notes              |
+| ---------------- | ------------------ |
+| BioRhyme         | Modern, slab       |
+| Source Serif Pro | Historical         |
+| Josefin Slab     | 1930's style       |
+| Roboto Slab      | Robust             |
+| Frank Ruhl Libre | Classic yet modern |
 
 ## Stylish
 
