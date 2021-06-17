@@ -41,10 +41,11 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans,
 
 ## Stylish
 
-| Font Name     | Notes                       |
-| ------------- | --------------------------- |
-| Orbitron      | Cyberpunk, Futuristic       |
-| Space Grotesk | Futuristic yet professional |
+| Font Name       | Notes                       |
+| --------------- | --------------------------- |
+| Orbitron        | Cyberpunk, Futuristic       |
+| Space Grotesk   | Futuristic yet professional |
+| Dela Gothic One | Modern, fat, artistic       |
 
 ## Handwriting
 
